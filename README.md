@@ -1,2 +1,2 @@
-# ez_WoW_3.3.5_DBM_runic_dungeon
-Модификация аддона Deadly Boss Mods (DBM) для рунических подземелий на сервере ezwow.org
+ezwow WoW 3.3.5 DB runic dungeon
+Модификация аддона Deadly Boss Mods (DBM) для рунических подземелий на сервере ezwow.org, подсказывающая игрокам об особенностях механики рунических подземелий.
